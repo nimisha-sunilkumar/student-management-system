@@ -19,4 +19,4 @@ A Python-based console application for managing student records using CRUD opera
 - Lists and dictionaries
 
 ## Note
-This is a console-based software development project (no HTML/CSS).
+⚠️ This is a console-based Python project and cannot be executed using GitHub Pages.
